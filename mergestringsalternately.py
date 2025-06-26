@@ -14,4 +14,4 @@ class Solution:
 
 
 # identify the longer string and shorter string and based on which is longer, loop through the shorter till the end to merge and then add the 
-# remaining string back to the merged 
+# remaining string back to the merged. The T.C is O(N) as there is a for loop and S.C is O(N) because of the mergeStr 
